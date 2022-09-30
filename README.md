@@ -10,7 +10,7 @@
 
 💡 &nbsp;I like to develop and learn about new technologies.\
 🎓 &nbsp;I'm currently a Computer Science and Engineering student at the IIITDM Jabalpur.\
-✍️ &nbsp;In my free time, I read novel and watch anime.
+✍️ &nbsp;In my free time, I read novels and watch anime.
 
 ### 🛠 &nbsp;Current Knowledge
 
