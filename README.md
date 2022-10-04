@@ -39,6 +39,4 @@
    <a href="https://www.buymeacoffee.com/aryan0"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salted0dreams&langs_count=5&layout=compact&theme=tokyonight" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/?username=salted0dreams&count_private=true&theme=tokyonight&showicons=true" /></p>
 
