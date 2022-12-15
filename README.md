@@ -6,7 +6,6 @@
 </p>
 
 ### About Me
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 - 💡 &nbsp;I like to develop and learn about new technologies.
 - 🔭 Currently I am working with Mongoose and Express. 
