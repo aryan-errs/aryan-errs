@@ -8,7 +8,7 @@
 ### About Me
 
 - 💡 &nbsp;I like to develop and learn about new technologies.
-- 🔭 Currently I am working with Mongoose and Express. 
+- 🔭 Currently I am learning how to make contracts in solidity. 
 - 🎓 &nbsp;I'm currently a Computer Science Engineering student at the IIITDM Jabalpur.
 - ✍️ &nbsp;In my free time, I read novels and watch anime.
 
