@@ -1,18 +1,15 @@
-### <h1 align = "center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi"><b>Heyyo! I am Aryan </b></h1>
-<br>
+### Aryan Sharma
 
-<p align = "center">
-  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width = "500px" heigth = "500px"/>
-</p>
+Just a guy looking to make my developer workflow more awesome, build performant
+projects, understand memory, and ultimately craft really awesome software.
 
-### About Me
+### About me
+* I am working at JCDecor, do checkout the [site](https://jcdecor.co.in).
+* I am currently learning about blockchain, yk the consensus part, and side by side learning about smart contracts in Solidity.
+* Also, a 3rd year undergrad at IIITDM Jabalpur.
+* Core member of The Programming Club of IIITDMJ.(yeah ik our programming club is called "The Programming Club")
 
-- 💡 &nbsp;I like to develop and learn about new technologies.
-- 🔭 Currently I am learning how to make contracts in solidity. 
-- 🎓 &nbsp;I'm currently a Computer Science Engineering student at the IIITDM Jabalpur.
-- ✍️ &nbsp;In my free time, I read novels and watch anime.
-
-### 🛠 &nbsp;Current Knowledge
+### Current Knowledge
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -31,7 +28,6 @@
  <br/>
     
  <br/>
-
 
 
 ### 🤝🏻 &nbsp;Connect with Me
