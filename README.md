@@ -24,16 +24,3 @@ projects, understand memory, and ultimately craft really awesome software.
     <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" width="50px"/>
     <a href="https://www.postman.com/" ><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="50px" /></a
 </p>
-
- <br/>
-    
- <br/>
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<p align = "left">
-<a href="https://www.linkedin.com/in/aryan-sharma-3035b7226/"><img src="https://img.shields.io/badge/-LinkedIn-D14836?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="aryan182282@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aint_no_aryan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
