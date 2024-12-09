@@ -4,8 +4,7 @@ Just a guy looking to make my developer workflow more awesome, build performant
 projects, understand memory, and ultimately craft really awesome software.
 
 ### About me
-* I am working at JCDecor, do checkout the [site](https://jcdecor.co.in).
-* I am currently learning about blockchain, yk the consensus part, and side by side learning about smart contracts in Solidity.
+* I am currently learning about golang, and trying to understand Design Concepts by builing projects in golang.
 * Also, a 3rd year undergrad at IIITDM Jabalpur.
 * Core member of The Programming Club of IIITDMJ.(yeah ik our programming club is called "The Programming Club")
 
