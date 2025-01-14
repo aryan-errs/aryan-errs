@@ -5,7 +5,7 @@ projects, understand memory, and ultimately craft really awesome software.
 
 ### About me
 * I am currently learning about golang, and trying to understand Design Concepts by builing projects in golang.
-* Also, a 3rd year undergrad at IIITDM Jabalpur.
+* Also, a 4th year undergrad at IIITDM Jabalpur.
 * Core member of The Programming Club of IIITDMJ.(yeah ik our programming club is called "The Programming Club")
 
 ### Current Knowledge
